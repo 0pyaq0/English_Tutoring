@@ -24,7 +24,7 @@ img{
 <div class="container-fluid">
 	<div class="row">
 		<div class="col-md-7">
-			<img src="/Tutoring/img/join.jpg" alt="joinImage">
+			<img src="/Tutoring/img/join.png" alt="joinImage">
 		</div>
 		<div class="col-md-5">
 			<form action="insert" method="post" id="frm">
